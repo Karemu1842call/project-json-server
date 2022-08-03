@@ -1,5 +1,4 @@
 {
-    "page":1,
     "results" :[
         {
             "id":0,
@@ -27,6 +26,15 @@
             "Power":"Kenbunshoku Haki,Busoshoku Haki,Haoshoku Haki",
             "Episodes":"1053",
             "co-casts":"Roronoa Zoro,Nami,Usopp,Sanji,Tony Tony Chopper,Nico Robin,Franky"
+        }
+        {
+            "id":3,
+            "name":"Dragon ball",
+            "Character":"Goku",
+            "image":"https://pagelagi.com/dragon-ball-super-reveals-another-new-form-for-goku-and-its-incredible/",
+            "Power":"Noibou,super-strenth,kamehameha",
+            "Episodes":"153",
+            "co-casts":"Muten-roshi,Kuririn,Bulma,Yamucha"
         }
     ]
 }
