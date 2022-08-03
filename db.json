@@ -1,7 +1,8 @@
 {
-    "anime":[
+    "page":1,
+    "results" :[
         {
-            "id":1,
+            "id":0,
             "name":"Naruto",
             "main Character":"Uzumaki Naruto",
             "image":"https://earngurus.com/see-where-to-watch-all-seasons-of-naruto-shippuden/",
@@ -10,7 +11,7 @@
             "co-casts":"uchiha Sasuke,Haruno Sakura,Hatake Kakashi"
         },
         {
-            "id":2,
+            "id":1,
             "name":"Hunter x Hunter",
             "main Character":" Gon",
             "image":"https://fantasytopics.com/hunter-x-hunter-season-7/",
@@ -19,9 +20,9 @@
             "co-casts":"Killua"
         },
         {
-            "id":3,
+            "id":2,
             "name":"One piece",
-            "Character":"Luffy",
+            "Character":"Luffy-sama",
             "image":"https://www.amazon.com/One-Piece-Vol-100/dp/1974732177",
             "Power":"Kenbunshoku Haki,Busoshoku Haki,Haoshoku Haki",
             "Episodes":"1053",
