@@ -4,19 +4,28 @@
             "id":1,
             "movie name":"Naruto",
             "main Character":"Uzumaki Naruto",
-            "image":"n/a",
+            "image":"https://earngurus.com/see-where-to-watch-all-seasons-of-naruto-shippuden/",
             "Power":"Ninjutsu,Taijutsu,Senjutsu,sage mode",
             "Episodes":"500",
             "co-casts":"uchiha Sasuke,Haruno Sakura,Hatake Kakashi"
         },
         {
-            "id":1,
+            "id":2,
             "movie name":"Hunter x Hunter",
             "main Character":" Gon",
-            "image":"n/a",
+            "image":"https://fantasytopics.com/hunter-x-hunter-season-7/",
             "Power":"Enhancer",
             "Episodes":"270",
             "co-casts":"Killua"
+        },
+        {
+            "id":3,
+            "movie name":"One piece",
+            "main Character":"Luffy",
+            "image":"https://fantasytopics.com/hunter-x-hunter-season-7/",
+            "Power":"Kenbunshoku Haki,Busoshoku Haki,Haoshoku Haki",
+            "Episodes":"1053",
+            "co-casts":"Roronoa Zoro,Nami,Usopp,Sanji,Tony Tony Chopper,Nico Robin,Franky"
         }
     ]
 }
