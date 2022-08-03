@@ -2,21 +2,21 @@
     "students":[
         {
             "id":1,
-            "name":"Victor Kinoti",
+            "movie name":"Naruto",
+            "main Character":"Uzumaki Naruto",
             "image":"n/a",
-            "Tm's Name":"Wilson Kinyua",
-            "phase":2,
-            "course":"software Engineering",
-            "class":"mpft59-63c"
+            "Power":"Ninjutsu,Taijutsu,Senjutsu,sage mode",
+            "Episodes":"500",
+            "co-casts":"uchiha Sasuke,Haruno Sakura,Hatake Kakashi"
         },
         {
-            "id":2,
-            "name":"",
+            "id":1,
+            "movie name":"Hunter x Hunter",
+            "main Character":" Gon",
             "image":"n/a",
-            "Tm's Name":"Wilson Kinyua",
-            "phase":"",
-            "course":"software Engineering",
-            "class":"mpft59-63c"
+            "Power":"Enhancer",
+            "Episodes":"270",
+            "co-casts":"Killua"
         }
     ]
 }
