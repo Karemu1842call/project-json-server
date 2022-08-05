@@ -1,10 +1,7 @@
 {
     "results" :[
         {
-            "page": 1,
-            "results":[],
-          
-            "id":3,
+            "id":0,
             "name":"Dragon ball",
             "Character":"Goku",
             "image":"https://pagelagi.com/dragon-ball-super-reveals-another-new-form-for-goku-and-its-incredible/",
@@ -13,7 +10,7 @@
             "co-casts":"Muten-roshi,Kuririn,Bulma,Yamucha"
             },
             {
-            "id":2,
+            "id":1,
             "name":"One piece",
             "Character":"Luffy-sama",
             "image":"https://www.amazon.com/One-Piece-Vol-100/dp/1974732177",
@@ -22,7 +19,7 @@
             "co-casts":"Roronoa Zoro,Nami,Usopp,Sanji,Tony Tony Chopper,Nico Robin,Franky"
             },
             {
-            "id":1,
+            "id":2,
             "name":"Hunter x Hunter",
             "main Character":" Gon",
             "image":"https://fantasytopics.com/hunter-x-hunter-season-7/",
@@ -31,7 +28,7 @@
             "co-casts":"Killua"
             },
             {
-            "id":0,
+            "id":3,
             "name":"Naruto",
             "main Character":"Uzumaki Naruto",
             "image":"https://earngurus.com/see-where-to-watch-all-seasons-of-naruto-shippuden/",
