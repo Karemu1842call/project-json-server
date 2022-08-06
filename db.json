@@ -3,7 +3,7 @@
         {
             "id":0,
             "name":"Dragon ball",
-            "Character":"Goku",
+            "mainCharacter":"Goku",
             "image":"https://media.vlipsy.com/vlips/WYCK2Etb/preview.jpg",
             "Power":"Noibou,super-strenth,kamehameha",
             "Episodes":"153",
@@ -12,7 +12,7 @@
             {
             "id":1,
             "name":"One piece",
-            "Character":"Luffy-sama",
+            "mainCharacter":"Luffy-sama",
             "image":"https://i.pinimg.com/736x/43/ea/d0/43ead0468d6773d6c02f402e9dbf52c8.jpg",
             "Power":"Kenbunshoku Haki,Busoshoku Haki,Haoshoku Haki",
             "Episodes":"1053",
@@ -21,7 +21,7 @@
             {
             "id":2,
             "name":"Hunter x Hunter",
-            "main Character":" Gon",
+            "mainCharacter":" Gon",
             "image":"https://th.bing.com/th/id/OIP.a4lDBATCuT7X8_TitTdqfwHaEK?pid=ImgDet&rs=1",
             "Power":"Enhancer",
             "Episodes":"270",
@@ -30,7 +30,7 @@
             {
             "id":3,
             "name":"Naruto",
-            "main Character":"Uzumaki Naruto",
+            "mainCharacter":"Uzumaki Naruto",
             "image":"https://a-static.besthdwallpaper.com/boruto-naruto-next-generation-naruto-uzumaki-six-paths-sage-mode-wallpaper-2560x2048-80682_33.jpg",
             "Power":"Ninjutsu,Taijutsu,Senjutsu,sage mode",
             "Episodes":"500",
